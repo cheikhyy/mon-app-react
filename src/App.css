@@ -1,10 +1,28 @@
 .App {
   text-align: center;
+  justify-content: center;
+  /*   */
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.montre{
+  width: 10rem;
+
+}
+
+.sombre{
+  width: 20rem;
+}
+
+.col{
+  color: blue;
+}
+.imageUrl{
+  width: 45px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
